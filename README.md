@@ -2,7 +2,7 @@
 A Command-Line-Interface Tool used for roughly calculating the amount of osu! performance points earnt based on mods, accuracy, misses, etc.
 
 This Tool is baed on [oppai-ng](https://github.com/Francesco149/oppai-ng) credit goes to the original creator of the project. I have added/modified code that I thought was good for my version, and have renamed it to eliminate confusion from this project and the original.
-This Project uses The Unlicense License, just like the original, meaning you are free do do whatever you wish with the code, which I have exercised. More information about the license can be found at [Unlicense Website](https://unlicense.org/)
+This Project uses The Unlicense License, just like the original, meaning you are free do do whatever you wish with the code, which I have exercised. More information about the license can be found at [Unlicense Website](https://unlicense.org/). As for the name, it stands for osu pp advanced calculator, as i thought it was more fitting.
 
 # Installing (Windows)
 Simply Download the source as zip, extract the zip to a folder.
