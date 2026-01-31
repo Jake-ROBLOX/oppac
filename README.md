@@ -28,7 +28,7 @@ oppac path/to/map.osu -ojson
 oppai should compile even on old versions of msvc dating back to
 2005, although it was only tested on msvc 2010 and higher.
 
-You need [Microsoft Visual Studio](http://landinghub.visualstudio.com/visual-cpp-build-tools)
+You need [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)
 installed with c/c++ also installed.
 
 open the Developer Command Prompt for VS:
