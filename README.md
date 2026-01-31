@@ -36,5 +36,5 @@ open the Developer Command Prompt for VS:
 ```bat
 cd path\to\oppac\src
 build.bat
-buildlibs.bat
+libbuild.bat
 ```
