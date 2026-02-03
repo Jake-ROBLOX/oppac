@@ -25,7 +25,7 @@ oppac path/to/map.osu -ojson
 ```
 
 # compile from source (windows)
-oppai should compile even on old versions of msvc dating back to
+oppac should compile even on old versions of msvc dating back to
 2005, although it was only tested on msvc 2010 and higher.
 
 You need [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)
